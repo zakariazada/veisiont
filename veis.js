@@ -8,7 +8,7 @@
 
     1. Kerusakan / error pada template
     2. Menghilangkan fungsi update / perbaikan otomatis pada template
-    3. Tidak akan mendapatkan support / bantuan dari kreator template
+    3. Tidak aka
 
     Terima kasih sudah menggunakan karya saya. :)
 
